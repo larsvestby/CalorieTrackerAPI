@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieTrackerAPI", "CalorieTrackerAPI.csproj", "{0A2D3479-1491-4FB5-A04A-BB66945C2948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieTrackerTests", "CalorieTrackerTests\CalorieTrackerTests.csproj", "{20D002B2-5BAA-4E91-8F07-A675C39BACA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieTrackerTests", "CalorieTrackerTests\CalorieTrackerTests.csproj", "{248570F6-517D-4E29-BF6A-25300FB81921}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,18 +29,18 @@ Global
 		{0A2D3479-1491-4FB5-A04A-BB66945C2948}.Release|x64.Build.0 = Release|Any CPU
 		{0A2D3479-1491-4FB5-A04A-BB66945C2948}.Release|x86.ActiveCfg = Release|Any CPU
 		{0A2D3479-1491-4FB5-A04A-BB66945C2948}.Release|x86.Build.0 = Release|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Debug|x64.Build.0 = Debug|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Debug|x86.Build.0 = Debug|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Release|x64.ActiveCfg = Release|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Release|x64.Build.0 = Release|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Release|x86.ActiveCfg = Release|Any CPU
-		{20D002B2-5BAA-4E91-8F07-A675C39BACA3}.Release|x86.Build.0 = Release|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Debug|x64.Build.0 = Debug|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Debug|x86.Build.0 = Debug|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Release|x64.ActiveCfg = Release|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Release|x64.Build.0 = Release|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Release|x86.ActiveCfg = Release|Any CPU
+		{248570F6-517D-4E29-BF6A-25300FB81921}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
