@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieTrackerAPI", "CalorieTrackerAPI.csproj", "{0A2D3479-1491-4FB5-A04A-BB66945C2948}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieTrackerAPI", ""CalorieTrackerAPI/CalorieTrackerAPI.csproj"", "{0A2D3479-1491-4FB5-A04A-BB66945C2948}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieTrackerTests", "CalorieTrackerTests\CalorieTrackerTests.csproj", "{248570F6-517D-4E29-BF6A-25300FB81921}"
 EndProject
