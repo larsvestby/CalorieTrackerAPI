@@ -55,6 +55,14 @@
               "target": "Package",
               "version": "[16.1.1, )"
             },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.15, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.4, )"
@@ -161,6 +169,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[16.1.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.15, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
