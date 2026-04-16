@@ -82,6 +82,15 @@ public class AuthServiceTests
         Assert.Equal(user.UserID.ToString(), jwt.Claims.First(c => c.Type == "userId").Value);
     }
 
+    [Fact]
+    public void GenerateJwtToken_IsNotExpired()
+    {
+        var user = CreateTestUser();
+        var token = _authService.GenerateJwtToken(user);
+        var jwt = new JwtSecurityTokenHandler().ReadJwtToken(token);
+        Assert.True(jwt.ValidTo > DateTime.UtcNow);
+    }
+
     private static User CreateTestUser()
     {
         return new User
