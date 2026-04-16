@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalorieTrackerTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4fac23ce96e25662fa7f09bd2eb133ef2fdddb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f23cff1fac303f8b1e8b4afba5c89ed353de05cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalorieTrackerTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalorieTrackerTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
